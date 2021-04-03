@@ -1,0 +1,112 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+background-color: black;
+
+
+
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.about{
+    width: 100%;
+    float: left;
+    background-color: black;
+    padding: 159px 0;
+}
+
+.head-one{
+    width: 50%;
+    float: left;
+    padding: 27px 0px;
+}
+
+.head-one span{
+    color: rgb(150, 22, 0);
+
+}
+
+
+.head-one h2{
+    color: white;
+    font-size: 27px;
+}
+
+.head-one p {
+    color: white;
+    padding: 15px 0px;
+}
+
+.head-one ul{
+    list-style: none;
+}
+
+.head-one ul li {
+    color: white;
+    padding: 4px 0px;
+}
+
+.btn {
+    background: #1F96F2;
+    padding: 11px 25px;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 15px;
+}
+
+.about-two{
+    width: 40%;
+    float: left;
+    padding: 27px 20px;
+    
+}
+
+.head-two{
+    background-color:#2196F3;
+    width: 60%;
+    padding: 25px;
+    border-radius: 9px;
+}
+
+.head-two h2 {
+    color: white;
+    font-weight: 800;
+    text-transform: capitalize;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.head-two p {
+    color: white;
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+
+.form-control {
+    width: 95%;
+    padding: 6px;
+    margin-bottom: 4px;
+    border-radius: 5px;
+    border: none;
+}
+
+.rg-btn {
+    background: #6A39B9;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    padding: 8px;
+    margin-top: 5px;
+    border-radius: 7px;
+}
